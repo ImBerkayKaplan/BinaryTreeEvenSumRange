@@ -1,5 +1,3 @@
-# make file for for the parse tree and the pretty print
-
 JAVAC=javac
 SOURCE=src
 JAVA=*.java
